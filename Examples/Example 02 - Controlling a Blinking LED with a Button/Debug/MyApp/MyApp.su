@@ -1,0 +1,3 @@
+MyApp.c:6:6:HAL_SYSTICK_Callback	8	static
+MyApp.c:20:6:vSetup	8	static
+MyApp.c:25:6:vLoop	4	static,ignoring_inline_asm
